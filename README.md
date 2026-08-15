@@ -1,2 +1,2 @@
-# open-source-portfolio-generator
-Generate a static portfolio from selected repositories, releases, and demos.
+# Open-source Portfolio Generator
+Generates deterministic Markdown from public repository snapshots. A single non-public entry blocks output, preventing accidental disclosure. Offline API/CLI with SHA evidence.
